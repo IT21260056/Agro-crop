@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173657386487",
+    "project_id": "agro-1b213",
+    "storage_bucket": "agro-1b213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173657386487:android:a94324b7b0a455aae212f2",
+        "android_client_info": {
+          "package_name": "com.example.madviduth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173657386487-7hfab02u13otkv2kihv1bt0es9mfuaeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7broV06-q7auzP5La0ucO7PkTQKJpMu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173657386487-7hfab02u13otkv2kihv1bt0es9mfuaeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
